@@ -3,7 +3,8 @@ Analysis for Sheffield/QMUL Project
 
 Manuscript Working Title: : Spatial architecture of the immune microenvironment predicts malignant transformation in oral epithelial dysplasia
 
-Script Overview:
+Overview:
+Scripts are numbered and should be run consecutivley - raw data is available on request
 
 1)	Import Data 
 2)	Make maps for all markers and produce scaled intensity data
