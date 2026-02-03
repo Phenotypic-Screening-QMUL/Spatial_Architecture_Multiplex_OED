@@ -1,5 +1,5 @@
 # Spatial_Architecture_Multiplex_OED
-**Analysis for Sheffield/QMUL Project**
+**Analysis for Sheffield/QMUL Project - Multiplex Imaging in OED**
 
 **Manuscript Working Title:** Spatial architecture of the immune microenvironment predicts malignant transformation in oral epithelial dysplasia
 
