@@ -40,7 +40,12 @@ Scripts are numbered and should be run consecutively. Raw data is available on r
     - a) Stats
     - b) Interactions
 
-11. **Models with Cross Validation**
+11. **11_Models_Including_Testing**
 
-12. **Random Forest PCA**
-  
+12. **12_Compare_Models**
+
+13. **PCA**
+
+14. **14_Univariate_Performance**
+
+15. **LDA**
